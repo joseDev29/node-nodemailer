@@ -1,0 +1,38 @@
+div {
+  width: 90%;
+  min-width: 300px;
+  max-width: 400px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 50px auto;
+  border: none;
+  border-radius: 2px;
+  background-color: #fcfcfc;
+  color: #5a5fe8;
+}
+
+h1 {
+  width: 280px;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 3rem;
+}
+
+a {
+  width: 200px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  font-size: 1.8rem;
+  font-weight: 600;
+  text-decoration: none;
+  background-color: #5a5fe8;
+  border-radius: 2px;
+  color: #fcfcfc;
+}
